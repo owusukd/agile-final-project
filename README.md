@@ -1,2 +1,2 @@
 # agile-final-project
-This repo is for agile Final Project
+This repository contains the Final Project for agile planning
